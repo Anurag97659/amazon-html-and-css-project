@@ -1,0 +1,144 @@
+*{  
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+    margin: 0px;
+    padding: 0px;         
+}
+
+
+
+/* ------------------------------------------NAV 1 ---------------------------------------- */
+#top{
+    display: flex;
+    justify-content:space-between;
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+#logo{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 115px;
+    height: 45px;
+}
+#location{
+    display: flex;
+    flex-direction: column;
+    width: 70px;
+    margin-top: 15px;
+}
+#lo1{
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+#he{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+#he1{
+    font-size: 12px;
+}
+#language{
+    display: flex;
+    margin-top: 25px;
+}
+#usflag{
+    width: 25px;
+    height: 15px;
+}
+#re{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+#re1{
+    font-size: 12px;
+    margin-left: 10px;
+}
+#cart{
+    width: 80px;
+    height: 40px;
+    margin-top:8px ;
+}
+#search{
+    border: 0.5px;
+    border-radius: 5px;
+    width: 850px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+
+
+/* ------------------------------------------NAV 2 ---------------------------------------- */
+
+#sec1{
+    display: flex;  
+    justify-content: space-between;  
+    background-color: #083333;
+    color: white;
+    height: 30px;
+    padding-top: 10px;   
+    margin-left: 20px;
+    margin-right: 1000px;
+    /* font-size: 15px; */
+}
+#sec{
+    background-color: #083333;    
+}
+
+/* ------------------------------------------BACKGROUNG IMG ---------------------------------------- */
+
+#body1{
+    
+    background-image: url("https://m.media-amazon.com/images/I/71Ie3JXGfVL._SX3000_.jpg");
+    background-size: cover;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/* --------------------------------------------CONTENT ---------------------------------------------- */
+
+#linktoindia{
+    background-color: aliceblue;
+    color: #0f1111;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    width: 96%;
+    margin-bottom: 10px;
+    padding: 5px;
+    
+}
+
+
+#main{
+    display: flex;
+    flex-direction: column;
+    background-color: #b4ddbd;
+}
+#main1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#main2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img8{
+    width: 324px;
+    height: 420px;
+}
+
+
+
+
+
+
+
